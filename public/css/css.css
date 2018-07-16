@@ -1,0 +1,202 @@
+*{
+	width: auto;
+	height: auto;
+}
+
+a{
+    
+}
+
+#header1{
+
+	width: 1400px;
+	min-height:700px;
+	background-image: url("b2.jpeg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+#page{
+	background-color: black;
+	opacity: .8;
+	width: 1400px;
+	height: 500px;
+	background-image: url("b4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+#options-div
+{
+	position: relative;
+	height: 700px;
+	width: 1400px;
+}
+
+#options-bg
+{
+	background-image: url("b4.jpeg");
+	background-color: black;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: .9;
+}
+
+.options{
+	background-color: white;
+	position: relative;
+	left: 50px;
+	margin-left: 30px;
+	margin-top: 50px;
+	width:200px;
+	height: 500px;
+	display: inline-block;
+}
+h1.title{
+	color: white;
+	margin:auto;  
+	text-align: center;
+	top: 50%;
+	width: 100%;
+	padding-top: 350px;
+   padding-right: 150px;
+}
+
+h4.about_us_head{
+   color: white;
+   text-align: center;
+}
+
+p.about_us_p{
+   color: white;
+   width: 400px;
+   height: 200px;
+   text-align: center;
+}
+#legs 
+{
+	/*background-color: green;*/
+	background-image: url("legs.jpg");
+	border-radius: 8px;
+
+}
+#legs:hover
+{
+	background-image: url("legsHoverd.jpg");
+   box-shadow: 5px 10px #888888;
+}
+
+#arms
+{
+	background-color: red;
+	background-image: url("arms.jpg");
+	border-radius: 8px;
+}
+
+
+#arms:hover
+{
+	background-image: url("armshover.jpg");
+   box-shadow: 5px 10px #888888;
+	background-color: white;
+}
+
+#shoulders
+{
+	background-image: url("shoulders.jpg");
+	border-radius: 8px;
+	/*background-color: orange;*/
+}
+
+#shoulders:hover
+{
+	background-color: white;
+   box-shadow: 5px 10px #888888;
+	background-image: url("shouldershover.jpg");
+
+}
+
+
+#chest
+{
+	/*background-color: purple;*/
+	background-image: url("chest.jpg");
+	border-radius: 8px;
+}
+
+#chest:hover
+{
+   box-shadow: 5px 10px #888888;
+	background-image: url("chesthover.jpg");
+
+}
+
+#back
+{
+	/*background-color: pink;*/
+	background-image: url("back.jpg");
+	border-radius: 8px;
+}
+
+#back:hover
+{
+	background-color: white;
+   box-shadow: 5px 10px #888888;
+	background-image: url("backhover.jpg");
+
+}
+
+#aboutUs
+{
+	background-position: center;
+	width: 420px;
+	background-color: gray;
+   margin-left: 400px;
+   padding-top: 250px;
+   opacity: .5;
+   position: absolute;
+   border-style: solid;
+   top: 1500px;
+   left: 60px;
+}
+#aboutUs-2{
+   position: absolute;
+   width: 450px;
+   margin-left: 400px;
+   top: 1520px;
+   left: 70px;
+
+
+}
+/**********************
+*********************
+*********************
+*********************
+*********************
+*********************
+*********************
+
+*/
+
+/* Add a black background color to the top navigation */
+
+h1 {
+   font-size: 3em;
+}
+h3 {
+   color:#999;
+}
+p {
+   line-height: 160%;
+   letter-spacing:1px;
+}
+
+
+

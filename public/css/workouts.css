@@ -1,0 +1,109 @@
+h1{
+	color: white;
+	text-align: center;; 
+}
+
+
+#legsBody{
+	height: 1000px;
+	width:100%;
+	background-image: url("legsBg.jpeg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#containerLegs{
+	width: 80%;
+	height: 80%;
+	margin: auto;
+	align-items: center;
+	background-color: gray;
+	opacity: .9;
+	border-style: solid;
+}
+
+#armsBody{
+	height: 1000px;
+	width:100%;
+	background-image: url("armsBG.jpeg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#containerArms{
+	width: 80%;
+	height: 80%;
+	margin: auto;
+	align-items: center;
+	background-color: gray;
+	opacity: .6;
+	border-style: solid;
+}
+
+#backBody{
+	height: 1000px;
+	width:100%;
+	background-image: url("backBG.jpeg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#containerBack{
+	width: 80%;
+	height: 80%;
+	margin: auto;
+	align-items: center;
+	background-color: gray;
+	opacity: .6;
+	border-style: solid;
+}
+
+#shouldersBody{
+	height: 1000px;
+	width:100%;
+	background-image: url("shouldersBG.jpeg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#containerShoulders{
+	width: 80%;
+	height: 80%;
+	margin: auto;
+	align-items: center;
+	background-color: gray;
+	opacity: .6;
+	border-style: solid;
+}
+
+#chestBody{
+	height: 1000px;
+	width:100%;
+	background-image: url("chestBG.jpeg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#containerChest{
+	width: 80%;
+	height: 80%;
+	margin: auto;
+	align-items: center;
+	background-color: gray;
+	opacity: .6;
+	border-style: solid;
+}
+
+a.legs_pin{
+   opacity: .5
+}
