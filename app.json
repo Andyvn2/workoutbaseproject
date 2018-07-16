@@ -1,0 +1,7 @@
+{
+	"name": "workout-base",
+	"description": "workout APp",
+	"repository": "https://git.heroku.com/workout-base.git",
+	"logo": "https://workout-base.herokuapp.com/",
+	"keywords": ["node", "express", "ejs", "static"]
+}
