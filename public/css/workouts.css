@@ -20,7 +20,7 @@ h1{
 	margin: auto;
 	align-items: center;
 	background-color: gray;
-	opacity: .9;
+	
 	border-style: solid;
 }
 
@@ -40,7 +40,7 @@ h1{
 	margin: auto;
 	align-items: center;
 	background-color: gray;
-	opacity: .6;
+	
 	border-style: solid;
 }
 
@@ -60,7 +60,7 @@ h1{
 	margin: auto;
 	align-items: center;
 	background-color: gray;
-	opacity: .6;
+	
 	border-style: solid;
 }
 
@@ -80,7 +80,7 @@ h1{
 	margin: auto;
 	align-items: center;
 	background-color: gray;
-	opacity: .6;
+	
 	border-style: solid;
 }
 
@@ -100,10 +100,9 @@ h1{
 	margin: auto;
 	align-items: center;
 	background-color: gray;
-	opacity: .6;
+	
 	border-style: solid;
 }
 
-a.legs_pin{
-   opacity: .5
+a.leg: .5
 }
